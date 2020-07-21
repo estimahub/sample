@@ -1,0 +1,19 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Seam\\Sample\\" : "src"
+		}
+	},
+	"name" : "seam/sample",
+	"type" : "project",
+	"license" : "WTFPL",
+	"require" : {
+		"php" : ">=7.3"
+	},
+	"authors" : [{
+			"name" : "Marco Estima",
+			"email" : "marco.estima@gmai.com.br"
+		}
+	],
+	"minimum-stability" : "dev"
+}
