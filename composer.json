@@ -10,9 +10,8 @@
 	"homepage" : "http://github.com/slimphp/Slim-Skeleton",
 	"license" : "MIT",
 	"authors" : [{
-			"name" : "Josh Lockhart",
-			"email" : "info@joshlockhart.com",
-			"homepage" : "http://www.joshlockhart.com/"
+			"name" : "Marco Estima",
+			"email" : "marco.estima@gmail.com"
 		}
 	],
 	"require" : {
@@ -29,7 +28,7 @@
 		"sort-packages" : true
 	},
 	"scripts" : {
-		"start" : "php -S localhost:8080 -t public",
-		"test" : "phpunit"
-	}
+		"start" : "php -S localhost:8080 -t public"
+	},
+	"minimum-stability" : "dev"
 }
